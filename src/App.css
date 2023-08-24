@@ -1,0 +1,32 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:blueviolet;
+  text-align: center;
+}
+body{
+  background-color: #cccccc55;
+}
+
+nav {
+  background-color: #fff;
+  width: 50%;
+  margin: auto;
+}
+
+nav ul{
+  list-style-type: none;
+}
+nav ul li {
+  display: inline-block;
+  padding:10px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+
+nav ul li a:hover{
+  color:violet;
+}
